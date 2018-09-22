@@ -1,0 +1,1 @@
+alwaysTrue =()=>{return true}
